@@ -20,7 +20,7 @@
 	$bd_pass = "contraseña";
 	$bd_base = "base_de_datos";
 	$bd_port="puerto";
-
+hola
 
 5.-Crear un usuario en http://localhost/medical/mod_admin o http://Dominio/mod_admin
 6.-Una vez creado el usuario ir a http://localhost/medical o http://Dominio/
